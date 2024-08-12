@@ -28,8 +28,8 @@ Swiggy Lite is an e-commerce website built with Django framework, enabling user 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/swigge-lite.git
-   cd swigge-lite
+   git clone https://github.com/yourusername/swiggy-lite.git
+   cd swiggy-lite
    ```
 
 2. Create a virtual environment:
@@ -57,7 +57,7 @@ Swiggy Lite is an e-commerce website built with Django framework, enabling user 
 
 ## Running the Application
 
-To run the Swigge Lite website:
+To run the Swiggy Lite website:
 
 1. Navigate to the project directory:
    ```
