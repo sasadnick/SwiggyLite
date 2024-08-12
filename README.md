@@ -1,6 +1,6 @@
-# Swigge Lite
+# Swiggy Lite
 
-Swigge Lite is an e-commerce website built with Django framework, enabling user registration, login, order management, and a dynamic menu system.
+Swiggy Lite is an e-commerce website built with Django framework, enabling user registration, login, order management, and a dynamic menu system.
 
 ## Features
 
@@ -82,6 +82,3 @@ To run the Swigge Lite website:
 
 Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
